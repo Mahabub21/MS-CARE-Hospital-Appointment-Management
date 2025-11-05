@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../appointment"
+		},
+		{
+			"path": "../Create an Account"
+		},
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "../doctor"
+		},
+		{
+			"path": "../patient"
+		},
+		{
+			"path": "../photo"
+		},
+		{
+			"path": "../.qodo"
+		},
+		{
+			"path": "../.venv"
+		}
+	]
+}
