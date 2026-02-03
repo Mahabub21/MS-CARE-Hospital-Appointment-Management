@@ -98,11 +98,11 @@ If you plan to deploy, move sensitive files (e.g., DB credentials) out of the we
 - Port conflicts: ensure Apache uses port 80/443 or change to free ports.
 
 ## 👤 Authors:
-   • Mahabub Ahmed Kowsar <br>
+   👤 Mahabub Ahmed Kowsar <br>
      🆔 NSU ID: 2212618642<br>
      🏫 Company: North South University (Computer Science Student)<br>
      📧 Email: <a href="mailto:mahabubkowsar21@gmail.com" target="_blank">mahabubkowsar21@gmail.com</a><br><br>
-   • Montasir Mahmud Saykat<br>
+   👤 Montasir Mahmud Saykat<br>
      🆔 NSU ID: 2212589042<br>
      🏫 Company: North South University (Computer Science Student)<br>
      📧 Email: <a href="mailto:saykatnsu2025@gmail.com" target="_blank">saykatnsu2025@gmail.com</a><br>
